@@ -30,11 +30,7 @@ python ᶦᶰ࿇ᴮᴿɄ₮𝙴.py
 ```
 
 #### USERNAME 
-```
-xxx
-```
+
 
 #### Password 
-```
-xnxx
-```
+
