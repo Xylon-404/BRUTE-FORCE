@@ -14,7 +14,7 @@
 - Required modules in requirements.txt
 - No Root
 - No Termux Knowlegde
-
+- ⚡Bruteforce attack on Facebook account using 10 Million password list,This tools are use only educational purposes ⚡
 
  <p align="center"><img src="./XYLON.png" width="100%"/>
 </p>
