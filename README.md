@@ -31,6 +31,8 @@ python ᶦᶰ࿇ᴮᴿɄ₮𝙴.py
 
 #### USERNAME 
 
-
+https://t.me/Abdullha_404/873
 #### Password 
+
+https://t.me/Abdullha_404/873
 
