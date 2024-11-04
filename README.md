@@ -4,7 +4,11 @@
 
 #### Language > </br>
 
- <p align="center"><img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/>
+ </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
 
 ## Requirements - 
 - Stable Internet Connection
